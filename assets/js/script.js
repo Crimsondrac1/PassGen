@@ -3,7 +3,7 @@ var generateBtn = document.querySelector("#generate");
 var numbers = "0123456789";
 var lCase = "abcdefghijklmnopqrstuvwxyz";
 var uCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-var specChar = "!@#$%^&*()-=";
+var specChar = "!()*+,-./:;<=>?@[]^_`{|}~";
 var finalPass = "";
 
 function clearPassword() {
