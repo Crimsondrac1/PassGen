@@ -1,5 +1,5 @@
-# PassGen
-Password Generator Project
+# Password Generator Project
+
 
 ## Objective: Create a password generator that allow the user to select options such as using symbols or numbers to generate a password of a user specified character limit. 
 
